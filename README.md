@@ -28,3 +28,11 @@ Scheduler jobs runs every 5 minutes to update expiry trade flag
 
 Same step as above can be used to run test class individually.
 
+# To generate lombok in eclise
+1. Go to maven repository folder
+2. Go to org-projectlombok-lombok-version
+3. Run jar file and select eclipse ide 
+4. Install
+5. Close
+6. Open Eclipse IDE
+
